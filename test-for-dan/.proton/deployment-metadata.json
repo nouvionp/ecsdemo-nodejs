@@ -1,0 +1,10 @@
+{
+  "deploymentId" : "f0d421b2-232e-4596-8ba3-c0af08d4e8a9",
+  "isResourceDeleted" : false,
+  "resourceMetadata" : {
+    "arn" : "arn:aws:proton:us-west-2:605109740225:environment/test-for-dan",
+    "templateArn" : "arn:aws:proton:us-west-2:605109740225:environment-template/single-file-tf-env-tpl",
+    "templateMajorVersion" : "1",
+    "templateMinorVersion" : "0"
+  }
+}
